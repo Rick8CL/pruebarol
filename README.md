@@ -3,8 +3,6 @@ Role Name
 
 Rol de ejemplo para el curso de Ansible creado por Rick8CL
 
-A brief description of the role goes here.
-
 Requirements
 ------------
 
